@@ -420,32 +420,10 @@ let ru_1990_f = [
 			song : 'Льдинка'
 		},
 		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Лариса Черникова',
-			song : 'Влюблённый самолёт',
-			state: ' по Черниковой',
-			shorten: 'Черникова'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : "Алла Пугачёва",
-			song : 'Позови меня с собой',
-			state: " по Пугачёвой",
-			shorten: 'Пугачёва'
-		},
-		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Натали',
 			song : 'Улыбочка',
 			state: ' по Натали'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : "Лайма Вайкуле",
-			song : 'Ещё не вечер',
-			state: " по Лайме Вайкуле",
-			shorten: 'Вайкуле',
-			ignore : true
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -481,12 +459,6 @@ let ru_1990_f = [
 			pack : RU_1990_F_PACK_2,
 			group : 'Лика Стар',
 			song : 'Одинокая луна'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Лада Дэнс',
-			song : 'Жить нужно в кайф',
-			state: ' по Ладе Дэнс'
 		},
 		{
 			pack : RU_1990_F_PACK_3,
@@ -529,11 +501,6 @@ let ru_1990_f = [
 			song : 'Белая черемуха'
 		},
 		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Лада Дэнс',
-			song : 'Танцы у моря'
-		},
-		{
 			pack : RU_1990_F_PACK_3,
 			group : 'Ника',
 			song : 'Три хризантемы'
@@ -565,18 +532,6 @@ let ru_1990_f = [
 		},
 		{
 			pack : RU_1990_F_PACK_3,
-			group : 'Надежда Кадышева',
-			song : 'Виновата ли я',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_3,
-			group : 'Надежда Кадышева',
-			song : 'У церкви стояла карета',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_3,
 			group : 'Вика Цыганова',
 			song : 'Приходите в мой дом'
 		},
@@ -592,18 +547,8 @@ let ru_1990_f = [
 		},
 		{
 			pack : RU_1990_F_PACK_3,
-			group : 'Вика Цыганова',
-			song : 'Любовь и смерть'
-		},
-		{
-			pack : RU_1990_F_PACK_3,
 			group : 'Диана Гурцкая',
 			song : 'Ты здесь'
-		},
-		{
-			pack : RU_1990_F_PACK_3,
-			group : 'Диана Гурцкая',
-			song : 'Я не люблю тебя'
 		},
 		{
 			pack : RU_1990_F_PACK_3,
@@ -673,11 +618,6 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_2,
 			group : 'Алёна Свиридова',
-			song : 'Бедная овечка'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Алёна Свиридова',
 			song : 'Это ведь я'
 		},
 		{
@@ -686,24 +626,9 @@ let ru_1990_f = [
 			song : 'Два ангела'
 		},
 		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Алёна Свиридова',
-			song : 'Розовый фламинго'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Наталья Ветлицкая',
-			song : 'Лунный кот'
-		},
-		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Наталья Ветлицкая',
 			song : 'Playboy'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Наталья Ветлицкая',
-			song : 'Посмотри в глаза'
 		},
 		{
 			pack : RU_1990_F_PACK_1,
@@ -719,11 +644,6 @@ let ru_1990_f = [
 			pack : RU_1990_F_PACK_1,
 			group : 'Наташа Королёва',
 			song : 'Желтые тюльпаны'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : "Наташа Королёва",
-			song : 'Маленькая страна'
 		},
 		{
 			pack : RU_1990_F_PACK_1,
@@ -763,22 +683,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_1,
 			group : "Наталия Гулькина",
-			song : 'Мелодия любви'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : "Наталия Гулькина",
 			song : 'Дискотека'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : "Татьяна Овсиенко",
-			song : 'За розовым морем'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Овсиенко',
-			song : 'Школьная пора'
 		},
 		{
 			pack : RU_1990_F_PACK_1,
@@ -793,32 +698,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Татьяна Овсиенко',
-			song : 'Женское счастье'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Овсиенко',
-			song : 'Запомни меня'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Овсиенко',
 			song : 'Капитан'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Ирина Аллегрова',
-			song : 'Фотография 9х12'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Ирина Аллегрова',
-			song : 'Привет, Андрей'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Ирина Аллегрова',
-			song : 'Младший лейтенант'
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -828,42 +708,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_2,
 			group : 'Ирина Аллегрова',
-			song : 'Императрица'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Ирина Аллегрова',
-			song : 'С днём рождения!'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Ирина Аллегрова',
 			song : 'Гарем'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
-			song : 'Отпусти'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
-			song : 'Серые глаза'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
-			song : 'Да и нет'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
-			song : 'Сокол ясный'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
-			song : 'Голубые глазки'
 		},
 		{
 			pack : RU_1990_F_PACK_1,
@@ -878,27 +723,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Ирина Салтыкова',
-			song : 'Солнечный друг'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Ирина Салтыкова',
 			song : 'Огоньки'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Буланова',
-			song : 'Ясный мой свет'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Буланова',
-			song : 'Мой ненаглядный'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Татьяна Буланова',
-			song : 'Не плачь'
 		},
 		{
 			pack : RU_1990_F_PACK_1,
@@ -918,26 +743,6 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Анжелика Варум',
-			song : 'Ля-ля-фа'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Анжелика Варум',
-			song : 'Художник, что рисует дождь'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Анжелика Варум',
-			song : 'Зимняя вишня'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Анжелика Варум',
-			song : 'Городок'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Анжелика Варум',
 			song : 'Осенний джаз'
 		},
 		{
@@ -948,60 +753,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_1,
 			group : 'Анжелика Варум',
-			song : 'Все в твоих руках'
-		},
-		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Анжелика Варум',
 			song : 'Королева (ft Леонид Агутин)'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Я останусь с тобой',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Клава',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Тараканы',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Белый мерседес',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Шарманщик',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Беспутная',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Ах, Одесса!..',
-			ignore : true
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Хулиганчики',
-			ignore : true
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -1012,12 +764,6 @@ let ru_1990_f = [
 			pack : RU_1990_F_PACK_2,
 			group : 'Маша Распутина',
 			song : 'Ты меня не буди'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Маша Распутина',
-			song : 'Платье из роз',
-			ignore : true
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -1033,11 +779,6 @@ let ru_1990_f = [
 			pack : RU_1990_F_PACK_2,
 			group : 'Алла Пугачёва',
 			song : 'Настоящий Полковник'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Алла Пугачёва',
-			song : 'Любовь, похожая на сон'
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -1062,17 +803,7 @@ let ru_1990_f = [
 		{
 			pack : RU_1990_F_PACK_2,
 			group : 'Алёна Апина',
-			song : 'Леха'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Алёна Апина',
 			song : 'Летучий голландец'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Алёна Апина',
-			song : 'Ксюша'
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -1106,16 +837,6 @@ let ru_1990_f = [
 		},
 		{
 			pack : RU_1990_F_PACK_2,
-			group : 'Лариса Черникова',
-			song : 'Тайна'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'Лариса Долина',
-			song : 'Погода в доме'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
 			group : 'Лариса Долина',
 			song : 'Стена'
 		},
@@ -1145,24 +866,9 @@ let ru_1990_f = [
 			song : 'Не сходи с ума'
 		},
 		{
-			pack : RU_1990_F_PACK_1,
-			group : 'Наталья Сенчукова',
-			song : 'Ты пришла любовь'
-		},
-		{
 			pack : RU_1990_F_PACK_2,
 			group : 'Ирина Аллегрова',
 			song : 'Странник'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'София Ротару',
-			song : 'Хуторянка'
-		},
-		{
-			pack : RU_1990_F_PACK_2,
-			group : 'София Ротару',
-			song : 'Каким ты был'
 		},
 		{
 			pack : RU_1990_F_PACK_2,
@@ -1188,11 +894,6 @@ let ru_1990_f = [
 			pack : RU_1990_F_PACK_3,
 			group : 'Ани Лорак',
 			song : 'Манекенщица'
-		},
-		{
-			pack : RU_1990_F_PACK_3,
-			group : 'Ани Лорак',
-			song : 'Я вернусь'
 		},
 		{
 			pack : RU_1990_F_PACK_3,
